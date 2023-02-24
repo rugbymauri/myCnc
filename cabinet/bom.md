@@ -10,7 +10,8 @@
 - https://www.distrelec.ch/de/cat-5e-kupplung-idc-idc-tuk-limited-fkfbpm/p/30279379?trackQuery=cat-DNAV_PL_1967571&pos=2&origPos=2&origPageSize=50&track=true
 
 
-
+MicroSchalter
+- 6 x https://www.distrelec.ch/de/mikroschalter-16a-wechsler-35n-kurzer-rollenhebel-omron-electronic-components-165-1c5-by-omi/p/30118714
 
 
 230V Anschlüsse
